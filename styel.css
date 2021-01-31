@@ -1,0 +1,42 @@
+.test{
+width: 300px;
+height: 310px;
+margin: 50px;
+padding: 15px; 
+    float: left;
+ }
+.test-1{
+background: green;
+border: 3px solid yellow;
+overflow: auto;
+   
+
+
+}
+.test-2{
+background-color: hotpink;
+border: 3px solid black;
+
+
+
+}
+
+.test-3{
+    background-color: seagreen;
+    border: 3px solid red;
+    
+}
+h1:hover{
+    background-color: hotpink;
+    
+}
+h1{ background-color: grey;
+    color:greenyellow;
+    font-size: 50px;
+    width: 500px;
+    margin: 50px;
+    padding: 10px;
+}
+input:focus {
+    color: red;
+    background-color: green;
